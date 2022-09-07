@@ -1,0 +1,3 @@
+[submodule "Desktop/ascentdata/yourfolio"]
+	path = Desktop/ascentdata/yourfolio
+	url = https://github.com/serg/yourfolio.git
